@@ -1,0 +1,18 @@
+.itemSection{
+  background-color: gray;
+  height: 250px;
+  padding: 0 20px;
+}
+
+button {
+  width: 50%;
+  float: left;
+}
+
+.buy{
+  background-color: green;
+}
+
+.sell {
+  background-color: red;
+}
